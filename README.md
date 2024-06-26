@@ -1,4 +1,4 @@
-9# How to build a website on this thing ?
+# How to build a website on this thing ?
 
 
 So, basically this script only works on termux, to avoid any errors please run the following commands
